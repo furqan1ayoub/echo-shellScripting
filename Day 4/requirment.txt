@@ -1,0 +1,4 @@
+#!/bin/bash
+sudo apt install nmap
+sudo apt install traceroute 
+sudo apt install finglet
